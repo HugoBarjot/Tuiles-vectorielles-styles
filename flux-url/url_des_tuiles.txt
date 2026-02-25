@@ -1,0 +1,1 @@
+france-vector : https://openmaptiles.geo.data.gouv.fr/data/france-vector/{z}/{x}/{y}.pbf
